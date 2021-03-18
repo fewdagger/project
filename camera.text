@@ -1,0 +1,63 @@
+{
+    "_id" : "54545457",
+    "id" : "54545457",
+    "brand" : "sony",
+    "name" : "a7c",
+    "price" : 61990,
+    "color" : "black"
+    
+}
+
+{
+    "_id" : "54545451",
+    "id" : "54545451",
+    "brand" : "sony",
+    "name" : "a7",
+    "price" : 60000,
+    "color" : "black"
+    
+}
+
+
+{
+    "_id" : "54545456",
+    "id" : "54545456",
+    "brand" : "cannon",
+    "name" : "x7",
+    "price" : 60000,
+    "color" : "black"
+    
+}
+
+{
+    "_id" : "51254657",
+    "id" : "51254657",
+    "brand" : "cannon",
+    "name" : "EOS M50 Mark II",
+    "price" : 25990,
+    "color" : "white"
+    
+}
+
+
+{
+    "_id" : "57586159",
+    "id" : "57586159",
+    "brand" : "Panasonic",
+    "name" : "Lumix DC-S5",
+    "price" : 66491,
+    "color" : "black"
+    
+}
+
+{
+    "_id" : "57428651",
+    "id" : "57428651",
+    "brand" : "Canon",
+    "name" : "EOS R5 Body",
+    "price" : 134900,
+    "color" : "black"
+    
+}
+
+
